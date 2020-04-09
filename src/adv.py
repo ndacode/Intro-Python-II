@@ -51,8 +51,8 @@ print(my_Player)
 
 # Write a loop that:
 #
-for i in Player:
-    print(i.room)
+for i in room:
+    print(i)
 
 # * Prints the current room name
 # * Prints the current description (the textwrap module might be useful here).
